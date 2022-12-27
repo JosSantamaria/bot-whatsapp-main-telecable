@@ -1,5 +1,7 @@
 ## Chatbot Whatsapp (OpenSource)
 
+### Soporte MySQL o superior
+Soporte de MySql 8 agregado con mysql2
 #### Actualización
 
 | Feature  | Status |
@@ -8,7 +10,6 @@
 | MySQL  | ✅  |
 | JSON File  | ✅  |
 | QR Scan (route) | ✅ |
-| Easy deploy heroku  | ✅  |
 | Buttons | ✅ℹ️  (No funciona en multi-device)|
 | Send Voice Note | ✅ |
 | Add support ubuntu/linux | ✅ |
@@ -21,7 +22,7 @@
 
 ### (Nuevo) Botones
 
-[![btn](https://i.imgur.com/W7oYlSu.png)](https://youtu.be/5lEMCeWEJ8o) 
+
 
 > Implementar los botones solo necesitas hacer uso del metodo __sendMessageButton__ que se encuentra dentro `./controllers/send` dejo un ejemplo de como usarlo.
 [Ver implementación](https://github.com/leifermendez/bot-whatsapp/blob/main/app.js#L123)
@@ -99,13 +100,9 @@ __Whatsapp en tu celular__
 <img src="https://i.imgur.com/RSbPtat.png" width="500"  />
 Tambien puedes visitar la pagina http://127.0.0.1:3000/qr
 
-__Listo 😎__
+__Listo__
 > Cuando sale este mensaje tu BOT está __listo__ para trabajar!
 ![](https://i.imgur.com/eoJ4Ruk.png)
-
-# ¿Quieres ver como se creó? 🤖
-- [Ver Video 1](https://www.youtube.com/watch?v=A_Xu0OR_HkE)
-- [¿Como instalarlo? (Actulización)](https://youtu.be/5lEMCeWEJ8o)
 
 ## ¿Como usarlo el chatbot de whatsapp?
 > Escribe un mensaje al whatsapp que vinculaste con tu BOT

@@ -1,3 +1,7 @@
+#### Actualización 15 Dic 2022
+- add library Mysql2 .
+- Mysql 8 support.
+
 #### Actualización 14 Ene 2022
 - npm update
 - remove ora and chalk
