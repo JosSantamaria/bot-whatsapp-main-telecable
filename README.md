@@ -46,7 +46,6 @@ await sendMessageButton(
 ```
 
 ## Notas de Voz
-[![voice note]
 
 > Se pueden enviar notas de voz con formato nativo para que no se vea como reenviado. En este ejemplo enviare el archivo __PTT-20220223-WA0000.opus__ que se encuentra dentro de la carpeta de __/mediaSend__
 
@@ -107,7 +106,7 @@ __Listo__
 ## ¿Como usarlo el chatbot de whatsapp?
 > Escribe un mensaje al whatsapp que vinculaste con tu BOT
 
-![](https://i.imgur.com/OSUgljQ.png)
+
 
 > Ahora deberías  obtener un arespuesta por parte del BOT como la siguiente, ademas de esto tambien se crea un archivo excel
 con el historial de conversación  con el número de tu cliente
