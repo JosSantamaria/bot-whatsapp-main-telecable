@@ -17,7 +17,7 @@ Soporte de MySql 8 agregado con mysql2
 ## Requisitos
 - node v14 o superior
 - VSCode (Editor de codigo) [Descargar](https://code.visualstudio.com/download)
-- MySql (opcional) solo aplica si vas a usar el modo 'mysql'  [sql-bot.sql migración](https://github.com/leifermendez/bot-whatsapp/blob/main/sql-bot.sql)
+- MySql (opcional) solo aplica si vas a usar el modo 'mysql'  [tlc_whatsapp.sql migración]
 - Dialogflow (opcional) solo aplica si vas a usar el modo 'dialogflow'
 
 ### (Nuevo) Botones
