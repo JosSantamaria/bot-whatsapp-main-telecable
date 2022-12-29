@@ -46,7 +46,7 @@ await sendMessageButton(
 ```
 
 ## Notas de Voz
-[![voice note](https://i.imgur.com/zq6xYDp.png)](https://i.imgur.com/zq6xYDp.png) 
+[![voice note]
 
 > Se pueden enviar notas de voz con formato nativo para que no se vea como reenviado. En este ejemplo enviare el archivo __PTT-20220223-WA0000.opus__ que se encuentra dentro de la carpeta de __/mediaSend__
 
